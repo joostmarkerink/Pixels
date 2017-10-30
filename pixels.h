@@ -6,8 +6,8 @@
 //  Copyright © 2017 Joost Markerink. All rights reserved.
 //
 
-#ifndef BitMap_h
-#define BitMap_h
+#ifndef PIXELS_h
+#define PIXELS_h
 
 
 typedef unsigned int pixelcolor;
