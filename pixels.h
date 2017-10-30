@@ -1,6 +1,6 @@
 //
-//  BitMap.h
-//  BitMap
+//  pixels.h
+//  pixels
 //
 //  Created by Joost Markerink on 29-10-17.
 //  Copyright © 2017 Joost Markerink. All rights reserved.
